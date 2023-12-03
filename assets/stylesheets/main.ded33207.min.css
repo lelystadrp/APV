@@ -61,13 +61,13 @@ input{
     outline:none
 }
 :root{
-    --md-primary-fg-color:#4051b5;
-    --md-primary-fg-color--light:#5d6cc0;
-    --md-primary-fg-color--dark:#303fa1;
+    --md-primary-fg-color:#ead945;
+    --md-primary-fg-color--light:#bec05d;
+    --md-primary-fg-color--dark:#a17730;
     --md-primary-bg-color:#fff;
     --md-primary-bg-color--light:#ffffffb3;
-    --md-accent-fg-color:#526cfe;
-    --md-accent-fg-color--transparent:#526cfe1a;
+    --md-accent-fg-color:#feca52;
+    --md-accent-fg-color--transparent:#fec5521a;
     --md-accent-bg-color:#fff;
     --md-accent-bg-color--light:#ffffffb3
 }
